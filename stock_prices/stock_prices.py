@@ -2,11 +2,11 @@
 
 import argparse
 
-[2, 6, 3, 6]
+# [2, 6, 3, 6]
 
-current_min_price = 2
+# current_min_price = 2
 
-max_profit_so_far = 6-2
+# max_profit_so_far = 6-2
 
 
 def find_max_profit(prices):
